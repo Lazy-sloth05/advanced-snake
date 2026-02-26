@@ -23,11 +23,19 @@ The snake will code for the lentgth of the snake as it eats more food, the color
 
 Feature 2 : Food. 
 
-The food will code for different types of food. the amount of points that each fruit has and the time and place of appearance of each of them
+Feature is the position of it, it appears somewhere on the screen and stays there until the snake eats it. 
+How it looks : shape, color, the timing of its apparation, random location on the screen.
+there are different types of food : red, blue, and gold, each of them codes for a different score. 
+Red ones count for one.
+Blue for 3. 
+Gold for 5.
 
 Feature 3 : Screen.
 
-The screen codes for the size of the platform where the snake moves, also will code for the scoreboard points. It will state when the game needs to restart and when to start again.
+The screen codes for the size of the platform where the snake moves, also codes for the scoreboard points. It states when the game needs to restart and when to start again.
+Also the color of the screen, how does it look like : black.
+Checks for collision, if collision : game restarts. Self-collision or with the edges. 
+
 
 ## Who is it for?
 

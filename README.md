@@ -1,9 +1,12 @@
 # Project Title 
 Advanced Snake
+
 Reinterpretation of a well-known arcade game : Snake
 
 **Course**:  PRA2031 - Python Programming Language 
+
 **Date**: P4 2026
+
 **Team Members**: Angela, Noa, Mariyah, Julien, Nicolas, Thijmen & Julie
 
 # Description

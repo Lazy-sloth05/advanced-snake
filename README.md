@@ -1,5 +1,4 @@
-# Project Title 
-Advanced Snake
+# Advanced Snake
 
 Reinterpretation of a well-known arcade game : Snake
 

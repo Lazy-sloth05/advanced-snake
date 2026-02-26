@@ -64,7 +64,8 @@ The most difficult : Getting to know the applications (Visual code, Github and p
 
 ## Technical limitations?
 Challenge 1 : Creating the branches and managing them 
-Explanation : The problem was that we could not manage to create branches and to make them accessible for everyone on GitHub.
+
+Solution : The problem was that we could not manage to create branches and to make them accessible for everyone on GitHub.
 Solution : We realised that we had to create the branches directly on the GitHub repository. And then on VS code, we went into the main branch, and clicked on the origin/ the new branch, and then type on the terminal Git Fetch --all. 
 
 Challenge 2 : Pulling and saving changes 

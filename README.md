@@ -44,16 +44,6 @@ All coding was performed within Visual Studio Code (VS Code), where we implement
 - GitHub
 - VS code
 
-### Set-Up : Step-by-step
-
-1. Clone the repository: ```bash
-   git clone https://github.com/yourusername/project-name.git
-   cd project-name
-2. Install dependencies:
-pip install -r requirements.txt
-
-TO DO 
-
 ### Code Examples
 
 TO DO

@@ -41,31 +41,14 @@ All coding was performed within Visual Studio Code (VS Code), where we implement
 ### Prerequisites 
 - Python 3.8 or higher 
 - pip (Python package manager)
+- Virtual Environment
 - GitHub
 - VS code
 
-### Code Examples
-
-TO DO
-
-# Usage Examples 
-
 ## How to play 
-You will control the snake with your keyboard, pressing up, down, left or right. The aim of the game is to eat as much food as possible to increase the score. Different types of food will appear and have different score points and time appearance to make it a challenge. You will have to avoid touching the edges and its own body, this will lead to failing and having to restart the game with 0 points. As the snake eats, its length will grow, making it more difficult to avoid starting the game again.
-
-## Basic Usage Example 
-
-## Common Use Cases 
-
-Use Case 1 : TITLE 
-EXAMPLE CODE 
-
-Use Case 2 : TITLE 
-EXAMPLE CODE 
+To run the game put on your terminal: python main.py. You will control the snake with your keyboard, pressing up, down, left or right. The aim of the game is to eat as much food as possible to increase the score. Different types of food will appear and have different score points and time appearance to make it a challenge. You will have to avoid touching the edges and its own body, this will lead to failing and having to restart the game with 0 points. As the snake eats, its length will grow, making it more difficult to avoid starting the game again.
 
 ...
-
-## Code snippets showing how to use it
 
 # Why did we chose this project ?  
 
